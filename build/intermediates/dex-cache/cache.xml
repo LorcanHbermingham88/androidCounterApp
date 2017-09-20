@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/healy/.android/build-cache/fc57597c31d3718452c316fb362e238608343200/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/healy/AndroidStudioProjects/Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f72111becd75b8472576c87d768bf26248a1c4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/healy/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/healy/AndroidStudioProjects/Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_f78e935d78933a7ffde482ed3663c29eee8442ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/healy/AndroidStudioProjects/Counter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="656e2a982a49c309df7dab919b22128fcd0dd877">
+        <dex dex="/home/healy/AndroidStudioProjects/Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_09c138e63b89b8b631c90a42fd1ab5c7859f4217/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/healy/AndroidStudioProjects/Counter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/healy/AndroidStudioProjects/Counter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d1bf7b96d8cbad11f42c32c400f1632879f10714/classes.dex" />
+    </item>
+
+</items>
